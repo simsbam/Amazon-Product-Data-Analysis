@@ -75,7 +75,7 @@ Below is the overview page from the Excel dashboard and more are included in the
 13. Categories with highest discounts – Max discount percentage grouped by category.
 14. Top 5 Products (Rating × Reviews) – Created a new column for combined score, sorted pivot table.
 
-Below is the overview page from the Pivot Table
+Below is the overview page from the Pivot Table ![Pivot Table](https://github.com/simsbam/Amazon-Product-Data-Analysis/blob/main/Pivot%20Table.png)
 
 ### Dashboard Features
 The dashboard was built using:
