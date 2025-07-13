@@ -56,3 +56,5 @@ Rating–Discount Relationship: No strong linear correlation, but products rated
 Price Segmentation: Products under ₹200 had fewer reviews; higher engagement started around ₹500+.
 
 Below is the overview page from the Excel dashboard and more are included in the interactive dashboard can be downloaded
+![Dashboard overview](./dashboard_overview.png)
+
