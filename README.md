@@ -55,7 +55,7 @@ Category Leaders: Electronics & Apparel had the highest number of listed product
 Rating–Discount Relationship: No strong linear correlation, but products rated 4.0+ often had moderate discounts.
 Price Segmentation: Products under ₹200 had fewer reviews; higher engagement started around ₹500+.
 
-Below is the overview page from the Excel dashboard and more are included in the interactive dashboard can be downloaded 
+Below is the overview page from the Excel dashboard and more are included in the interactive dashboard can be downloaded [Here](https://github.com/simsbam/Amazon-Product-Data-Analysis/blob/main/Amazon%20case%20study%20Cleaned.xlsx)
 ![Dashboard overview](https://github.com/simsbam/Amazon-Product-Data-Analysis/blob/main/Dashboard%20Overview.png)
 
 ### Key Metrics Answered via Pivot Tables
